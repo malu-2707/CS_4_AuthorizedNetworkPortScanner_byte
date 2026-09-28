@@ -1,0 +1,25 @@
+{
+    "scan_timestamp": "2026-09-28T19:03:37.424326",
+    "target": "127.0.0.1",
+    "resolved_ip": "127.0.0.1",
+    "protocol": "TCP",
+    "start_port": 8000,
+    "end_port": 8000,
+    "timeout_seconds": 1.0,
+    "workers": 50,
+    "summary": {
+        "total_ports": 1,
+        "open": 1,
+        "closed": 0,
+        "filtered": 0
+    },
+    "results": [
+        {
+            "port": 8000,
+            "protocol": "TCP",
+            "status": "open",
+            "service": "unknown"
+        }
+    ],
+    "scan_duration_seconds": 0.020582
+}

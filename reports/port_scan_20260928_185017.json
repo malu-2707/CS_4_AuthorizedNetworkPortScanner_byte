@@ -1,0 +1,619 @@
+{
+    "scan_timestamp": "2026-09-28T18:50:17.167587",
+    "target": "127.0.0.1",
+    "resolved_ip": "127.0.0.1",
+    "protocol": "TCP",
+    "start_port": 1,
+    "end_port": 100,
+    "timeout_seconds": 1.0,
+    "workers": 50,
+    "summary": {
+        "total_ports": 100,
+        "open": 0,
+        "closed": 100,
+        "filtered": 0
+    },
+    "results": [
+        {
+            "port": 1,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 2,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 3,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 4,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 5,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 6,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 7,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 8,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 9,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 10,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 11,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 12,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 13,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 14,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 15,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 16,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 17,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 18,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 19,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 20,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 21,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 22,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 23,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 24,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 25,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 26,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 27,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 28,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 29,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 30,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 31,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 32,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 33,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 34,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 35,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 36,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 37,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 38,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 39,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 40,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 41,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 42,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 43,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 44,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 45,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 46,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 47,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 48,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 49,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 50,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 51,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 52,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 53,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 54,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 55,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 56,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 57,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 58,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 59,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 60,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 61,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 62,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 63,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 64,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 65,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 66,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 67,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 68,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 69,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 70,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 71,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 72,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 73,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 74,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 75,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 76,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 77,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 78,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 79,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 80,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 81,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 82,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 83,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 84,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 85,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 86,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 87,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 88,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 89,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 90,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 91,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 92,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 93,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 94,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 95,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 96,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 97,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 98,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 99,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        },
+        {
+            "port": 100,
+            "protocol": "TCP",
+            "status": "closed",
+            "service": "unknown"
+        }
+    ],
+    "scan_duration_seconds": 2.032773
+}
